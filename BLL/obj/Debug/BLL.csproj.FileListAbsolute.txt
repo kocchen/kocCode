@@ -1,0 +1,7 @@
+F:\ng_Test\IOCConsole\BLL\bin\Debug\BLL.dll
+F:\ng_Test\IOCConsole\BLL\bin\Debug\BLL.pdb
+F:\ng_Test\IOCConsole\BLL\bin\Debug\IServer.dll
+F:\ng_Test\IOCConsole\BLL\bin\Debug\IServer.pdb
+F:\ng_Test\IOCConsole\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ng_Test\IOCConsole\BLL\obj\Debug\BLL.dll
+F:\ng_Test\IOCConsole\BLL\obj\Debug\BLL.pdb
